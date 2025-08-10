@@ -3,3 +3,4 @@ client_secrets.json
 hello.png
 mycreds.txt
 goals.json
+__pycache__/
